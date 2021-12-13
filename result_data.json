@@ -1,0 +1,56 @@
+[
+    {
+        "title": "CROSS HIKE MID GTX",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/peshekhodnyy_turizm/33310/",
+        "price": 15490,
+        "category": "Пеший туризм",
+        "sale": 10790,
+        "discount_percent": 30,
+        "color_name": "Magnet/Black/Lime Punch"
+    },
+    {
+        "title": "SENSE 4 /PRO",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/119942/",
+        "price": 12990,
+        "category": "Трейлраннинг",
+        "sale": 8990,
+        "discount_percent": 31,
+        "color_name": "Ebony/White (pantone Bright White)/"
+    },
+    {
+        "title": "SONIC 4 ACCELERATE",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/beg_po_asfaltu/32953/",
+        "price": 10990,
+        "category": "Бег по асфальту",
+        "sale": 7690,
+        "discount_percent": 30,
+        "color_name": "Palace Blue/White/Evening Primrose"
+    },
+    {
+        "title": "SONIC 4 CONFIDENCE",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/beg_po_asfaltu/32895/",
+        "price": 10990,
+        "category": "Бег по асфальту",
+        "sale": 7690,
+        "discount_percent": 30,
+        "color_name": "Palace Blue/White/Evening Primrose"
+    },
+    {
+        "title": "SENSE FLOW 2",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/56477/",
+        "price": 9990,
+        "category": "Трейлраннинг",
+        "sale": 4990,
+        "discount_percent": 50,
+        "color_name": "Ebony/White/Charlock"
+    },
+    {
+        "title": "XA WILD",
+        "link": "https://salomon.ru/catalog/muzhchiny/obuv/treylranning/4240/",
+        "price": 11490,
+        "category": "Трейлраннинг",
+        "sale": 7990,
+        "discount_percent": 30,
+        "color_name": "Black/Black/Black"
+    }
+]
